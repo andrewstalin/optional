@@ -1,0 +1,2 @@
+gtest https://github.com/google/googletest
+cmake-modules https://github.com/andrewstalin/cmake-modules.git
